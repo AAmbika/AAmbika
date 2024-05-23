@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **fertilizer shop website**
 
-- 🌱 I’m currently learning **React, Node js**
+- 🌱 project https://jananitraders-60028648122.development.catalystserverless.in/app/index.html
 
 - 🤝 Internship [Sea turtle conservation trust](https://www.seaturtleconservation.in/)
 
